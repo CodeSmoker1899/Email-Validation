@@ -1,7 +1,7 @@
 # Email-Validation
 
 ## You can watch the tutorial on the link below: 
-* https://youtu.be/kwjswuYBIJ4
+* https://youtu.be/LBQK4CSj_6Y
 
 ## You can Support me:
 https://www.buymeacoffee.com/CodeSmoker
